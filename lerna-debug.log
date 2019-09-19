@@ -1,0 +1,9 @@
+0 silly argv { _: [ 'bootstrap' ],
+0 silly argv   lernaVersion: '3.16.4',
+0 silly argv   '$0':
+0 silly argv    'C:\\Users\\zhangle\\AppData\\Roaming\\npm\\node_modules\\lerna\\cli.js' }
+1 notice cli v3.16.4
+2 verbose rootPath D:\lerna\lear-demo
+3 error JSONError: Unexpected token , in JSON at position 262 while parsing near '...  "license": "ISC"},' in packages\tab\package.json
+3 error     at module.exports (C:\Users\zhangle\AppData\Roaming\npm\node_modules\lerna\node_modules\parse-json\index.js:26:19)
+3 error     at parse (C:\Users\zhangle\AppData\Roaming\npm\node_modules\lerna\node_modules\load-json-file\index.js:15:9)
